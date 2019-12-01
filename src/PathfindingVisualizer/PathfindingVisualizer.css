@@ -1,0 +1,8 @@
+.grid {
+    margin: 100px 0 0;
+    flex-direction: column;
+    
+    
+    align-items: center;
+    justify-content: center;
+  }
